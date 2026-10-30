@@ -1,10 +1,12 @@
 # CantaPE 1.5
 
+**[Descargar CantaPE.apk](https://github.com/alxgr08/CantaPE/releases/latest/download/CantaPE.apk)** (Android 8.0 o superior)
+
 Aplicación Android independiente que anuncia por voz el importe detectado en una notificación de pago recibido de Yape. No pertenece a Yape ni al BCP, no modifica Yape y no se conecta a una cuenta bancaria.
 
 ## Instalar y usar
 
-1. Para pruebas de desarrollo, instala `release/CantaPE-1.5.apk` en un teléfono Android 8.0 o posterior. Google Play Protect puede bloquear la instalación directa de un APK con acceso a notificaciones. Para las opciones de distribución sin Google Play, consulta `release/DISTRIBUCION_SIN_GOOGLE_PLAY.md`.
+1. Para pruebas de desarrollo, instala `CantaPE.apk` desde el enlace de descarga de arriba en un teléfono Android 8.0 o posterior. Google Play Protect puede bloquear la instalación directa de un APK con acceso a notificaciones. Para las opciones de distribución sin Google Play, consulta `release/DISTRIBUCION_SIN_GOOGLE_PLAY.md`.
 2. Abre **CantaPE** y pulsa **Vincular avisos de Yape**.
 3. Lee la explicación del permiso y, si estás de acuerdo, activa el acceso a notificaciones para **CantaPE** en los ajustes de Android.
 4. Elige qué quieres que cante la app (solo aviso, con cantidad o completo con nombre) y cámbialo cuando quieras. Configura el nombre de bienvenida, el tipo de voz y el volumen. Usa **Probar voz** para escuchar el resultado.
